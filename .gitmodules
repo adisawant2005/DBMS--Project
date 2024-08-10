@@ -1,0 +1,6 @@
+[submodule "Book-Store-Web-Front-End"]
+	path = Book-Store-Web-Front-End
+	url = https://github.com/adisawant2005/Book-Store-Web-Front-End.git
+[submodule "Book_Store_Web_Back_End"]
+	path = Book_Store_Web_Back_End
+	url = https://github.com/adisawant2005/Book_Store_Web_Back_End.git
